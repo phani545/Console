@@ -3,7 +3,7 @@ stack=[]
 stack.append(1)
 stack.append(2)
 print(stack)
-
+#Added Stack
 print(stack.pop())
 '''
 from collections import deque  
