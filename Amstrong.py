@@ -1,6 +1,6 @@
 #l= [2,34,5]
 #print(sum(l))
-
+#comment
 #Find the weather number is amstrong numner or not
 n = int(input("Enter the number:"))
 print(n)
